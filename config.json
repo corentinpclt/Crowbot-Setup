@@ -1,13 +1,13 @@
 {
-    "color": "#CE2445",
+    "color": "#ffffff",
     "prefix": "+",
-    "name": "Powered by Agora",
+    "name": "Collège Rosa Parks",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
     "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
     "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
     "owner": [
         "682166234682359818", 
-        "",
+        "1237784700999831556",
         ""
     ]
 }
